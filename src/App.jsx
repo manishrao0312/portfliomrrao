@@ -39,7 +39,7 @@ const PORTFOLIO_DATA = {
     email: "manishmahesh456@gmail.com",
     linkedin: "https://www.linkedin.com/in/manish-m-5b7949258/",
     github: "https://github.com/manishrao0312",
-    resumeFile: "/Manish_Resume.docx" 
+    resumeFile: "/resume.pdf" 
   },
   skills: [
     { name: "Python", icon: <Terminal size={18} />, color: "text-yellow-400" },
